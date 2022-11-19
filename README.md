@@ -21,7 +21,7 @@ Para la práctica se ha escogido la página web de Amazon España que aporta inf
   * `/source/scraper.py`: Archivo que contiene la implementación de la clase *bestsellers_scraper* y los métodos que ayudan a generar el conjunto de datos obtenido de la bases de datos de la página de Amazon España.
   * `/source/main.py`: Es el archivo de entrada al programa. Es el encargado de iniciar el web scraping.
   * `/source/requirements.txt`: Lista de paquetes utilizados.
-  * `/dataset/libros_bestsellers.csv`: Dataset con los datos obtenidos de Amazon España y que muestran el ranking, titulo, autor, precio en euros, puntuación dada por los lectores, número de reviews dejados en la página y la imagen de portada de los libros más vendidos en España.
+  * `/dataset/amazon_100bestsellers.csv`: Dataset con los datos obtenidos de Amazon España y que muestran el ranking, titulo, autor, precio en euros, puntuación dada por los lectores, número de reviews dejados en la página y la imagen de portada de los libros más vendidos en España.
 
 ## Publicación en Zenodo
 El dataset ha sido publicado en Zenodo con DOI [10.5281/zenodo.0000000](https://doi.org/10.5281/zenodo.0000000).
