@@ -24,8 +24,7 @@ Para la práctica se ha escogido la página web de Amazon España que aporta inf
   * `/dataset/amazon_100bestsellers.csv`: Dataset con los datos obtenidos de Amazon España y que muestran el ranking, titulo, autor, precio en euros, puntuación dada por los lectores, número de reviews dejados en la página y la imagen de portada de los libros más vendidos en España.
 
 ## Publicación en Zenodo
-El dataset ha sido publicado en Zenodo con DOI [10.5281/zenodo.0000000](https://doi.org/10.5281/zenodo.0000000).
+El dataset ha sido publicado en Zenodo con DOI [[10.5281/zenodo.7338204](https://doi.org/10.5281/zenodo.7338204)]().
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.0000000.svg)](https://doi.org/10.5281/zenodo.0000000)
 
 
